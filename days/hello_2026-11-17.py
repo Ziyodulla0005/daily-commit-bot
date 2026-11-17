@@ -9,3 +9,4 @@ for i in range(1, 21):
     else:
         print(i)
 # yangilandi: 12:30:05
+# yangilandi: 12:33:58
