@@ -25,3 +25,7 @@ print("Qoldiq:", a % b)
 
 # --- qadam 7: ortacha qiymat ---
 print("Ortacha:", (a + b) / 2)
+
+# --- qadam 8: eng katta va eng kichik ---
+print("Eng katta:", max(a, b))
+print("Eng kichik:", min(a, b))
