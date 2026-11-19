@@ -29,3 +29,11 @@ print("Ortacha:", (a + b) / 2)
 # --- qadam 8: eng katta va eng kichik ---
 print("Eng katta:", max(a, b))
 print("Eng kichik:", min(a, b))
+
+# --- qadam 9: hisobla() funksiyasi ---
+def hisobla(x, y):
+    return {
+        "yigindi": x + y,
+        "ayirma": x - y,
+        "kopaytma": x * y,
+    }
