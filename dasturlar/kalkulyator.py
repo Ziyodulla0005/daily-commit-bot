@@ -19,3 +19,6 @@ else:
 
 # --- qadam 5: darajaga oshirish ---
 print("Daraja:", a ** b)
+
+# --- qadam 6: qoldiq ---
+print("Qoldiq:", a % b)
