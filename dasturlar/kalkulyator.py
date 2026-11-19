@@ -37,3 +37,6 @@ def hisobla(x, y):
         "ayirma": x - y,
         "kopaytma": x * y,
     }
+
+# --- qadam 10: funksiyani chaqirish ---
+print(hisobla(20, 4))
