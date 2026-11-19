@@ -10,3 +10,9 @@ print("Ayirma:", a - b)
 
 # --- qadam 3: kopaytma qoshildi ---
 print("Kopaytma:", a * b)
+
+# --- qadam 4: bolish (nolga tekshiruv bilan) ---
+if b != 0:
+    print("Bolinma:", a / b)
+else:
+    print("Nolga bolib bolmaydi")
