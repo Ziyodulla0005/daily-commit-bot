@@ -22,3 +22,6 @@ print("Daraja:", a ** b)
 
 # --- qadam 6: qoldiq ---
 print("Qoldiq:", a % b)
+
+# --- qadam 7: ortacha qiymat ---
+print("Ortacha:", (a + b) / 2)
