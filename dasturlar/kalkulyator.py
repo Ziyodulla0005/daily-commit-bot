@@ -16,3 +16,6 @@ if b != 0:
     print("Bolinma:", a / b)
 else:
     print("Nolga bolib bolmaydi")
+
+# --- qadam 5: darajaga oshirish ---
+print("Daraja:", a ** b)
